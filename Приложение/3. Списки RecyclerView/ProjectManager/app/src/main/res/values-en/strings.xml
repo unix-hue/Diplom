@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+    <string name="registration">Registration</string>
+    <string name="auth">Authentification</string>
+    <string name="mail_label">Enter e-mail</string>
+    <string name="mail_button">Enter</string>
+    <string name="name_label">Enter name</string>
+    <string name="button">OK</string>
+    <string name="surname_label">Enter surname</string>
+    <string name="password_label">Enter password</string>
+    <string name="password_edit_2">Enter password</string>
+    <string name="button2">OK</string>
+    <string name="desks">My desks</string>
+    <string name="desk">Desk 1</string>
+    <string name="create_desk">Create desk</string>
+    <string name="people">My team</string>
+    <string name="task">Task 1</string>
+    <string name="tasks">Tasks</string>
+    <string name="creation_desk">Desk creation</string>
+    <string name="peoples">Team</string>
+    <string name="task_1_comment">Task 1</string>
+    <string name="task_creation">Task creation</string>
+    <string name="textView3">Name desk</string>
+    <string name="button5">OK</string>
+    <string name="textView2">Вася Пупкин, vasya@gmail.com</string>
+    <string name="textView5">Task 1</string>
+    <string name="textView6">Task description</string>
+    <string name="textView7">Worker</string>
+    <string name="button6">Task completed</string>
+    <string name="textView">Вася Пупкин</string>
+    <string name="textView4">Name</string>
+    <string name="textView8">Description</string>
+    <string name="textView9">Worker</string>
+    <string name="button7">OK</string>
+    <string name="button3">Task 1</string>
+    <string name="button4">Add task</string>
+</resources>

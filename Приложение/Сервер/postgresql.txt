@@ -1,0 +1,22 @@
+База данных:
+
+create table users (
+id SERIAL PRIMARY KEY,
+email VARCHAR,
+name VARCHAR,
+surname VARCHAR,
+password VARCHAR);
+
+create table desks (
+id SERIAL PRIMARY KEY,
+user_id INT,
+name VARCHAR,
+FOREIGN KEY (user_id) REFERENCES users (id) ON UPDATE CASCADE ON DELETE CASCADE);
+
+create table tasks (
+id SERIAL PRIMARY KEY,
+desk_id INT,
+name VARCHAR,
+description VARCHAR,
+worker VARCHAR,
+FOREIGN KEY (desk_id) REFERENCES desks (id) ON UPDATE CASCADE ON DELETE CASCADE);

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+    <string name="registration">Регистрация</string>
+    <string name="auth">Аутентификация</string>
+    <string name="mail_label">Введите e-mail</string>
+    <string name="mail_button">Ввести</string>
+    <string name="name_label">Введите имя</string>
+    <string name="button">ОК</string>
+    <string name="surname_label">Введите фамилию</string>
+    <string name="password_label">Введите пароль</string>
+    <string name="password_edit_2">Введите пароль</string>
+    <string name="button2">ОК</string>
+    <string name="desks">Мои доски</string>
+    <string name="desk">Доска 1</string>
+    <string name="create_desk">Создать доску</string>
+    <string name="people">Моя команда</string>
+    <string name="task">Задача 1</string>
+    <string name="tasks">Задачи</string>
+    <string name="creation_desk">Создание доски</string>
+    <string name="peoples">Команда</string>
+    <string name="task_1_comment">Задача 1</string>
+    <string name="task_creation">Создание задачи</string>
+    <string name="textView3">Назовите доску</string>
+    <string name="button5">ОК</string>
+    <string name="textView2">Вася Пупкин, vasya@gmail.com</string>
+    <string name="textView5">Задача 1</string>
+    <string name="textView6">Описание задачи</string>
+    <string name="textView7">Исполнитель</string>
+    <string name="button6">Задача выполнена</string>
+    <string name="textView">Вася Пупкин</string>
+    <string name="textView4">Название</string>
+    <string name="textView8">Описание</string>
+    <string name="textView9">Исполнитель</string>
+    <string name="button7">ОК</string>
+    <string name="button3">Задача 1</string>
+    <string name="button4">Добавить задачу</string>
+</resources>
